@@ -1,2 +1,4 @@
 # pwa
-The primary web app for Wellcorp
+The primary web app for Wellcorp.
+
+## Some really important notes.
